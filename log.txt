@@ -1,0 +1,8 @@
+23:42:41.600 [main] INFO  ppj.assignments.Main - Starting Main on LAPTOP-MAK6HHBB with PID 12228 (C:\Users\David\IdeaProjects\ppj-cv6\target\classes started by David in C:\Users\David\IdeaProjects\ppj-cv6)
+23:42:41.602 [main] INFO  ppj.assignments.Main - The following profiles are active: prod
+23:42:41.627 [main] INFO  o.s.c.a.AnnotationConfigApplicationContext - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@51931956: startup date [Sun Apr 28 23:42:41 CEST 2024]; root of context hierarchy
+23:42:42.029 [main] INFO  o.s.j.e.a.AnnotationMBeanExporter - Registering beans for JMX exposure on startup
+23:42:42.035 [main] INFO  ppj.assignments.Main - Started Main in 0.631 seconds (JVM running for 1.207)
+23:42:42.036 [main] INFO  ppj.assignments.Main - Application PPJ_cv6 [profiles prod, description 'Production properties descriptioooon']
+23:42:42.036 [Thread-1] INFO  o.s.c.a.AnnotationConfigApplicationContext - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@51931956: startup date [Sun Apr 28 23:42:41 CEST 2024]; root of context hierarchy
+23:42:42.037 [Thread-1] INFO  o.s.j.e.a.AnnotationMBeanExporter - Unregistering JMX-exposed beans on shutdown
